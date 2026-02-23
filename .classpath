@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/AlKhalil.jar"/>
+	<classpathentry kind="lib" path="Lib/ArabicAnalyzer-1.0b.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="Lib/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="Lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="Lib/jython-standalone-2.5.3.jar"/>
+	<classpathentry kind="lib" path="Lib/khojastemmer.jar"/>
+	<classpathentry kind="lib" path="Lib/lucene-1.4.3.jar"/>
+	<classpathentry kind="lib" path="Lib/lucene-snowball-3.0.1.jar"/>
+	<classpathentry kind="lib" path="Lib/MADAMIRA-release-20140825-1.0.jar"/>
+	<classpathentry kind="lib" path="Lib/mail.jar"/>
+	<classpathentry kind="lib" path="Lib/motaz-stemmer.jar"/>
+	<classpathentry kind="lib" path="Lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="Lib/org.eclipse.fx.ide.css.jfx8_2.1.0.201508240705.jar"/>
+	<classpathentry kind="lib" path="Lib/org.eclipse.fx.ide.css.jfx8_3.0.0.201705220750_2.jar"/>
+	<classpathentry kind="lib" path="Lib/org.eclipse.fx.ide.css.jfx8_3.0.0.201705220750.jar"/>
+	<classpathentry kind="lib" path="Lib/SAFAR_v2.jar"/>
+	<classpathentry kind="lib" path="Lib/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="Lib/stanford-parser-3.2.0-models.jar"/>
+	<classpathentry kind="lib" path="Lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
